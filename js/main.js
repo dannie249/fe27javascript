@@ -1,6 +1,8 @@
 var mangNhanVien =  [];
 
-
+function themNguoiDung(){
+    console.log("them nguoi dung denise2");
+}
 
 function getEle(id){
     return document.getElementById(id);
